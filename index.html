@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>RepTimer – Simple Interval Workout Timer</title>
+  <meta name="description" content="RepTimer is a simple, mobile-first interval timer for workouts. Work, rest, repeat." />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <main id="app" class="idle">
+    <h1 class="app-name">RepTimer</h1>
+    <h2 id="status">READY</h2>
+
+    <div id="timer">00:00</div>
+
+    <section class="inputs">
+      <label>
+        Rounds
+        <input type="number" id="rounds" value="5" min="1" />
+      </label>
+
+      <label>
+        Work (sec)
+        <input type="number" id="workTime" value="30" min="1" />
+      </label>
+
+      <label>
+        Rest (sec)
+        <input type="number" id="restTime" value="15" min="0" />
+      </label>
+    </section>
+
+    <section class="controls">
+      <button id="startBtn">Start</button>
+      <button id="pauseBtn" disabled>Pause</button>
+      <button id="skipBtn" disabled>Skip</button>
+      <button id="resetBtn">Reset</button>
+    </section>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
