@@ -1,11 +1,11 @@
-# RepTimer 💪
+# RepTimer
 
 RepTimer is a simple, mobile-first interval workout timer built with plain HTML, CSS, and JavaScript.
 
 No accounts. No tracking. No distractions.  
 Just work, rest, repeat.
 
-## 🔥 Features
+## Features
 
 - Work + rest intervals
 - Custom number of rounds
@@ -15,11 +15,11 @@ Just work, rest, repeat.
 - Dark mode, bold fitness-focused design
 - Runs entirely in the browser
 
-## 🚀 Live Demo
+## Live Demo
 
-👉 https://tacofan709.github.io/reptimer/
+https://tacofan709.github.io/reptimer/
 
-## 🧠 How It Works
+## How It Works
 
 1. Set your:
    - Number of rounds
@@ -35,10 +35,11 @@ Just work, rest, repeat.
 - Vanilla JavaScript
 - Hosted on GitHub Pages
 
-## 📱 Mobile Friendly
+## Mobile Friendly
 
 Designed mobile-first and works great on phones during workouts.
 
-## 📄 License
+## License
 
 MIT — use it, modify it, ship it.
+---
