@@ -5,7 +5,7 @@ RepTimer is a simple, mobile-first interval workout timer built with plain HTML,
 No accounts. No tracking. No distractions.  
 Just work, rest, repeat.
 
-## Features
+## Features 
 
 - Work + rest intervals
 - Custom number of rounds
