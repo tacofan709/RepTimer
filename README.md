@@ -28,7 +28,7 @@ https://tacofan709.github.io/rep-timer/
 2. Press **Start**
 3. Follow the timer until you're done
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML
 - CSS
