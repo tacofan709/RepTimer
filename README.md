@@ -38,8 +38,3 @@ https://tacofan709.github.io/rep-timer/
 ## Mobile Friendly
 
 Designed mobile-first and works great on phones during workouts.
-
-## License
-
-MIT — use it, modify it, ship it.
----
